@@ -27,6 +27,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'puma'
 gem 'omniauth-twitter'
 gem 'turbolinks'
+gem 'bootstrap-sass'
 
 
 gem 'faker'
